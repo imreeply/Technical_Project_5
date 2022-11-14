@@ -1,0 +1,33 @@
+.formInput {
+  display: flex;
+  justify-content: center;
+  padding: 6rem;
+}
+
+#formGroup {
+  display: flex;
+  justify-content: space-around;
+}
+
+#formControl {
+  margin: 0 2rem;
+}
+
+.Card {
+  display: flex;
+  justify-content: center;
+}
+
+ul li {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.trashIcon {
+  cursor: pointer;
+}
+
+h6 {
+  text-align: center;
+}
